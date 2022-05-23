@@ -1,6 +1,6 @@
 ![Repo Banner](https://user-images.githubusercontent.com/87353286/144381080-faf8e557-7909-43a1-a8e2-208936e5a8f8.png)
 
-# BlackHole
+# VibZ
 
 An Open-Source Music Player App for all your needs!
 
@@ -16,10 +16,10 @@ An Open-Source Music Player App for all your needs!
 
 [<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png"
      alt="Get it on IzzyDroid"
-     height="100">](https://android.izzysoft.de/repo/apk/com.shadow.blackhole)
+     height="100">](https://android.izzysoft.de/repo/apk/com.kalisso.vibz.android.app)
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
      alt="Get it on F-Droid"
-     height="100">](https://f-droid.org/packages/com.shadow.blackhole/)
+     height="100">](https://f-droid.org/packages/com.kalisso.vibz.android.app/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"
